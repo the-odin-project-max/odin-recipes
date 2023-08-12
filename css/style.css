@@ -8,16 +8,16 @@
 body {
 	background-color: wheat;
 }
-
+h1, h2, h3, h4, h5, h6 {
+	color: blue;
+	text-decoration:underline solid brown;
+}
 /**************/
 /* INDEX.HTML */
 /**************/
 .main-title {
 	text-align: center;
-	color: blue;
 	font-size: 55px;
-	text-decoration:underline;
-	text-decoration-color: brown;
 }
 
 .main-list-element {
@@ -49,3 +49,15 @@ body {
 /********************/
 /*      RECIPE      */
 /********************/
+.recipe-main-title {
+	text-align: center;
+	color: blue;
+	font-size: 55px;
+	text-decoration:underline;
+	text-decoration-color: brown;
+}
+
+.recipe-main-image {
+	margin: auto;
+	display: block;
+}
