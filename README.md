@@ -8,3 +8,8 @@ Check if basic knowledge of HTML are known :
 3. Lists in HTML (ol & ul)
 4. Images
 5. Links
+
+## Update after [Cascading CSS course](https://www.theodinproject.com/lessons/foundations-the-cascade)
+
+6. Cascading Style Sheets - The Cascade
+7. Add style to the recipees

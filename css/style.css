@@ -1,0 +1,41 @@
+* {
+	font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+	background-color: wheat;
+}
+
+.main-title {
+	text-align: center;
+	color: blue;
+	font-size: 55px;
+	text-decoration:underline;
+	text-decoration-color: brown;
+}
+
+.main-list-element {
+	text-decoration: none;
+	list-style-type: none;
+	color: black;
+	font-size: 25px;
+	line-height: 30px;
+
+}
+
+.main-list-element a {
+	text-decoration: underline wavy red;
+	color: black;
+}
+
+.main-list-element a:hover {
+	color: blue;
+}
+
+.main-list {
+	border: 3px  solid black;
+	width: 200px;
+	text-align: center;
+	padding: 25px;
+	margin: auto;
+}
